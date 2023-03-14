@@ -13,7 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### 🛠 &nbsp;Frameworks
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![MaterialUI](https://img.shields.io/badge/-MaterialUi-05122A?style=flat&logo=materialui)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=selenium)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
