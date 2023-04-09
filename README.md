@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey folks🙌, I'm Prathik Shetty💫</h1>
+<h1 align="center">Hey folks🙌, I'm Awnish Dubey💫</h1>
 
 ![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
 ### 🎓 A CSE Undergraduate at IERT Prayagraj.
