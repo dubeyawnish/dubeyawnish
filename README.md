@@ -30,6 +30,7 @@
 
 
 ### 🛠 &nbsp;Deployed
+ ![Render](https://img.shields.io/badge/render-%23000000.svg?style=plastic&logo=render&logoColor=#00C7B7) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)&nbsp;
  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
 
