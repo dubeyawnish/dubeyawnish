@@ -1,6 +1,6 @@
 ## Hi,  I'm Awnish Dubey!
 ### 🎓 A CSE Undergraduate at IERT Payagraj
-- 🌱 I’m currently learning Bash and python scripting for Linux.
+- 🌱 I’m currently learning Nodejs as a Backend language.
 - 📫 How to reach me: [dubeyawnish6@gmail.com](mailto:dubeyawnish6@gmail.com).
 ![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
 
