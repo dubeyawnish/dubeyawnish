@@ -1,6 +1,6 @@
 ## Hi,  I'm Awnish Dubey!
 ### 🎓 A CSE Undergraduate at IERT Payagraj
-![profile count](https://komarev.com/ghpvc/?username=DevanshKapri&color=green)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
 
 ### 🛠 &nbsp;Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
