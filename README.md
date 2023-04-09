@@ -40,14 +40,7 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dubeyawnish&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dubeyawnish&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyawnish&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<a href="https://github.com/dubeyawnish">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevanshKapri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevanshKapri&layout=compact&langs_count=10&theme=tokyonight"/>
-</a>
-</p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshKapri&" alt="Awnish Dubey" /></p>
