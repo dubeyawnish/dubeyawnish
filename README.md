@@ -38,6 +38,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyawnish&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <a href="https://github.com/dubeyawnish">
