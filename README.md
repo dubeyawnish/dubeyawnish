@@ -1,5 +1,5 @@
 
-<h1 align="center" dir="auto">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block; width:30px;"> I’m Awnish Dubey!</h1><br/>
+<h1 align="center">Hey folks🙌, I'm Prathik Shetty💫</h1>
 
 ![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
 ### 🎓 A CSE Undergraduate at IERT Prayagraj.
