@@ -1,8 +1,8 @@
 
-<h1 align="center" dir="auto">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block; width:30px;"> I’m Awnish Dubey</h1><br/>
+<h1 align="center" dir="auto">Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block; width:30px;"> I’m Awnish Dubey!</h1><br/>
 
 ![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
-### 🎓 A CSE Undergraduate at IERT Payagraj
+### 🎓 A CSE Undergraduate at IERT Prayagraj.
 - 🌱 I’m currently learning Nodejs as a Backend language.
 - ✨ I'm open to Intern/Full time job opportunities as Software Developer.
 - 📫 How to reach me: [dubeyawnish6@gmail.com](mailto:dubeyawnish6@gmail.com).
