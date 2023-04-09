@@ -4,6 +4,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
 ### 🎓 A CSE Undergraduate at IERT Payagraj
 - 🌱 I’m currently learning Nodejs as a Backend language.
+- ✨ I'm open to Intern/Full time job opportunities as Software Developer.
 - 📫 How to reach me: [dubeyawnish6@gmail.com](mailto:dubeyawnish6@gmail.com).
 
 
