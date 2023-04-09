@@ -1,8 +1,9 @@
 ## Hi,  I'm Awnish Dubey!
+![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
 ### 🎓 A CSE Undergraduate at IERT Payagraj
 - 🌱 I’m currently learning Nodejs as a Backend language.
 - 📫 How to reach me: [dubeyawnish6@gmail.com](mailto:dubeyawnish6@gmail.com).
-![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
+
 
 ### 🛠 &nbsp;Languages
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)&nbsp;
