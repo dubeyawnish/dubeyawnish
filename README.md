@@ -2,7 +2,7 @@
 <h1 align="center">Hey folks🙌, I'm Awnish Dubey💫</h1>
 
 ![profile count](https://komarev.com/ghpvc/?username=Dubeyawnish&color=green)&nbsp;
-### 🎓 A CSE Undergraduate at IERT Prayagraj.
+### 🎓 A CSE Undergraduate at Institute of Engineering and Rural Technology (IERT) Prayagraj.
 - 🔭 I’m currently working on several MERN projects and advancing my full-stack skills.
 - 👯 I’m looking to collaborate on projects based on Full-Stack development.
 - 🤝 I’m looking for help with open source and job opportunities in the field of development.
