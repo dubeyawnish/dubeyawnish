@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on several MERN projects and advancing my full-stack skills.
 - 👯 I’m looking to collaborate on projects based on Full-Stack development.
 - 🤝 I’m looking for help with open source and job opportunities in the field of development.
-- 🌱 I’m currently learning the MERN stack
+- 🌱 I’m currently learning the MERN stack.
 - ⚡ Fun fact about my professional life is, for the longest time I thought I'd never get into coding. But here we are(happily).
 - 💬 Ask me about anything that you want to know.
 - 📫 How to reach me: [dubeyawnish6@gmail.com](mailto:dubeyawnish6@gmail.com).
